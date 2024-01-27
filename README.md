@@ -68,6 +68,8 @@ should try out git via the command line first.
 
 4. Xcode should now open up with the cloned repo. Or it'll crash. It's Xcode.
 
+#### What you've accomplished so far:
+
 - [x] Clone repo
 
 #### Command line equivalent
@@ -102,6 +104,9 @@ ruin the whole project.
 
 7. You should now be automatically switched to your newly created branch.
 
+#### What you've accomplished so far:
+
+- [x] Clone repo
 - [x] Switch branches
 - [x] Create branch
 
@@ -136,6 +141,11 @@ git checkout -b [branch name]
 
 5. Once you're sure of your changes, click `Commit`
 
+#### What you've accomplished so far:
+
+- [x] Clone repo
+- [x] Switch branches
+- [x] Create branch
 - [x] Commit changes
 
 #### Command line equivalent
@@ -159,6 +169,12 @@ _Note_: This is a risky operation. Make sure you're on the right branch!
 
 3. Click `Push`. Hopefully, Xcode won't crash at this point.
 
+#### What you've accomplished so far:
+
+- [x] Clone repo
+- [x] Switch branches
+- [x] Create branch
+- [x] Commit changes
 - [x] Push branch
 
 #### Command line equivalent
