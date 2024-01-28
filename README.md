@@ -69,8 +69,6 @@ it should have the following configuration:
 After pressing the *Create fork* button, you should be redirected to your
 newly forked repo page.
 
-![Image showing the newly forked repo page.](module0-img3.png)
-
 ## Cloning
 
 Since repositories (like this) are hosted remotely on websites like Github,
@@ -86,14 +84,17 @@ should try out git via the command line first.
 
 1. Open the Xcode app and click `Clone Git Repository`
 
+![Image showing Github clone popup within forked repo.](module0-img3.png)
+
 2. Enter the URL of the git repo. Refer to the image below to locate the URL.
+   _Note:_ Make sure to clone the **SSH** url, _not_ the HTTPS url.
+   
+![Image showing Github clone popup within forked repo.](module0-img3.png)
 
 3. Select the folder you want to store the repo. You'll need this throughout
    the course so don't just put it in your downloads!
 
 4. Xcode should now open up with the cloned repo. Or it'll crash. It's Xcode.
-
-![Image highlighting clone option on Xcode welcome page](module0-img4.png)
 
 #### What you've accomplished so far:
 
