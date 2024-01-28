@@ -117,20 +117,17 @@ ruin the whole project.
 
    You should now see a panel with a `Changes` tab and a `Repositories` tab.
 
-2. Switch to the `Repositories` tab. You should see a `gt-ios-bootcamp` repo.
+2. Switch to the `Repositories` tab. You should see a `bootcamp-module-0` repo.
 
 3. If not selected already, click the dropdown arrow to reveal repo details.
 
-4. Right/double click on the `module-0` item under `Branches` and click
-   `Switch...`
-   _Note_: `module-0` and other branches may be under `Remotes`
-
-5. Now that you're in the module 0 branch, right/double click on the
+4. You should now see a couple more menu options. Right/double click on the
    `Branches` item and select `New Branch from...`
    
-6. Enter a name for the branch. We suggest `firstname-lastname-module0`.
+5. Enter a name for the branch. We suggest `github_username-edits`
+   (replace `github_username` with your actual Github username)
 
-7. You should now be automatically switched to your newly created branch.
+6. You should now be automatically switched to your newly created branch.
 
 #### What you've accomplished so far:
 
@@ -141,8 +138,7 @@ ruin the whole project.
 #### Command line equivalent
 
 ```
-git pull origin/module-0
-git checkout module-0
+git pull origin
 
 git checkout -b [branch name]
 ```
@@ -208,7 +204,7 @@ _Note_: This is a risky operation. Make sure you're on the right branch!
 #### Command line equivalent
 
 ```
-git push origin/[branch name]
+git push --set-upstream origin [branch name]
 ```
 
 ### Again, you should never push to main!
