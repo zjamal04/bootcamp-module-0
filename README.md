@@ -77,7 +77,7 @@ you need a way to copy the project over on to your device.
 You could just download the source as a zip file, but you'll lose many of
 the powerful features that git offers.
 
-This tutorial will focus on using git via the Xcode interfact, but you
+This tutorial will focus on using git via the Xcode interface, but you
 should try out git via the command line first.
 
 ### Clone a repo with Xcode
@@ -95,6 +95,8 @@ should try out git via the command line first.
    the course so don't just put it in your downloads!
 
 4. Xcode should now open up with the cloned repo. Or it'll crash. It's Xcode.
+
+5. If Xcode doesn't open immediately, go to the folder you just cloned and right click on `GettingStarted.playground`, select Open With -> Xcode.
 
 #### What you've accomplished so far:
 
@@ -150,7 +152,7 @@ git checkout -b [branch name]
 
 2. Click on `GettingStarted` if you're not already there.
 
-3. Read and follow the instructions in the file.
+3. Read and follow the instructions in the file. Then come back here.
 
 ## Commit changes
 
@@ -161,7 +163,7 @@ git checkout -b [branch name]
 3. Enter a meaningful commit message like `Update name`
 
 4. Before committing, make sure you're on the right branch.
-   ***Do not*** make commits to `main` or `module-X`
+   ***Do not*** make commits to `main`
 
 5. Once you're sure of your changes, click `Commit`
 
@@ -184,7 +186,7 @@ git commit -m "[your message]"
 ## Pushing
 
 _Note_: This is a risky operation. Make sure you're on the right branch!
-        (The right branch is not `main` or `module-X`)
+        (The right branch is not `main`)
 
 1. Click on `Integrate` in the top menu bar and select `Push...`
 
