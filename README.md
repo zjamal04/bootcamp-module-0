@@ -84,7 +84,7 @@ should try out git via the command line first.
 
 1. Open the Xcode app and click `Clone Git Repository`
 
-![Image showing Github clone popup within forked repo.](module0-img3.png)
+![Image showing Github clone popup within forked repo.](module0-img4.png)
 
 2. Enter the URL of the git repo. Refer to the image below to locate the URL.
    _Note:_ Make sure to clone the **SSH** url, _not_ the HTTPS url.
