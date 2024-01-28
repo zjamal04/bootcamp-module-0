@@ -46,6 +46,10 @@ for version control.
 This is not just an iOS development thing! If you plan to work in software
 engineering, there is a 99.9% chance you will be dealing with git.
 
+Before starting, fork this repo (doing so creates a personal copy that you can freely manipulate). Forking can be accomplished by clicking on the **Fork** button which can be found in the top right corner between **Watch** and **Star**. 
+
+You can proceed with the instructions after the fork succeeds. Everything that follows should be done using your version of the repository (that you forked).
+
 ## Cloning a repo
 
 Since repositories (like this) are hosted remotely on websites like Github,
