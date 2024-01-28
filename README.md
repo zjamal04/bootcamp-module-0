@@ -229,3 +229,13 @@ Then, once your changes are approved, they can be merged through Github's
 interface.
 
 Later in the semester, you'll do this in a group project.
+
+## Submission
+
+To submit your work, make the forked version of the repository public then share the link with your instructor. Under your repository name, click Settings.
+
+If you cannot see the "Settings" tab, select the ... dropdown menu, then click Settings. 
+
+In the "Danger Zone" section, to the right of to "Change repository visibility", click Change visibility. 
+
+Select a visibility.
