@@ -46,7 +46,32 @@ for version control.
 This is not just an iOS development thing! If you plan to work in software
 engineering, there is a 99.9% chance you will be dealing with git.
 
-## Cloning a repo
+
+## Forking
+
+For each module, you'll be creating a fork of the module repo which will be
+associated with your account.
+
+To fork, click on the "Fork" button on this module's Github page.
+It should be located between "Watch" and "Star".
+
+![Image highlighting the Fork button on Github.](module0-img1.png)
+
+In the *Create a new fork* page, you shouldn't need to change anything, but
+it should have the following configuration:
+
+- Owner is your github account
+- Repository name is identical to forking repo (`bootcamp-module-0`)
+- The option to *copy the main branch only* is checked.
+
+![Image showing fork creation screen.](module0-img2.png)
+
+After pressing the *Create fork* button, you should be redirected to your
+newly forked repo page.
+
+![Image showing the newly forked repo page.](module0-img3.png)
+
+## Cloning
 
 Since repositories (like this) are hosted remotely on websites like Github,
 you need a way to copy the project over on to your device.
@@ -67,6 +92,8 @@ should try out git via the command line first.
    the course so don't just put it in your downloads!
 
 4. Xcode should now open up with the cloned repo. Or it'll crash. It's Xcode.
+
+![Image highlighting clone option on Xcode welcome page](module0-img4.png)
 
 #### What you've accomplished so far:
 
