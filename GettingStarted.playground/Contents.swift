@@ -19,7 +19,7 @@ import Foundation
 // If you don't, click the little rectangular symbol in the bottom right corner.
 
 // TODO: change this to your name
-let name: String = "Noah"
+let name: String = "Zunairah"
 
 // To print out variables, just enclose them with \()
 print("Hi! My name is \(name).")
